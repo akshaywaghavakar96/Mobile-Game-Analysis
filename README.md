@@ -3,6 +3,13 @@
 
 🎮 FP20 Analytics Challenge 18 Submission 🎮
 
+
+In this project, I conducted an in-depth analysis of the mobile gaming industry, focusing on data from 2008 to 2019. The primary objective was to answer key questions and provide actionable insights into the industry's trends and performance. The project began with importing raw data from Excel into SQL using Python, allowing for efficient data management and querying.
+
+The next step involved extensive data cleaning and transformation to ensure accuracy and relevance. After preparing the data, I built a robust data model, which served as the foundation for the analysis. I created several measures and calculated columns to meet specific analytical requirements, ensuring the data was fully optimized for visualization.
+
+Finally, I connected the SQL database to Power BI and utilized ZoomCharts to create a dynamic and interactive dashboard. This dashboard provides a comprehensive view of the mobile gaming industry's evolution over the years, offering valuable insights for stakeholders and decision-makers.
+
 In this project, I explored data from 2008 to 2019 to answer key questions about the mobile gaming industry. By importing Excel data into SQL using Python and connecting it to Power BI, I was able to create a dynamic and insightful dashboard with the help of ZoomCharts.
 
 Here are some of the insights I uncovered:
